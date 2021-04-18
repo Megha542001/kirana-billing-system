@@ -43,7 +43,7 @@ div{
 <button onclick="topFunction();" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
 <span style="display: inline-block;" class="navbar-toggler-icon"></span>
 </button>
-<h4 style="display: inline-block; color: white; margin: 5px;">Kirana Product Billing (Developed By Team <b>ScifiDevs</b>)</h4>
+<h4 style="display: inline-block; color: white; margin: 5px;">Kirana Product Billing (Developed By Team <b>Megha</b>)</h4>
 </nav>
 </div>
 </header>
