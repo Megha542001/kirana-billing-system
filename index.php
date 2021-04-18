@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kirana ML Model Software For TCS Competition</title>
+<title>Kirana Product Billing</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -36,7 +36,7 @@ div{
 <div class="pos-f-t" style="color:white;">
 <div class="collapse" id="navbarToggleExternalContent" style="background: black;">
 <div class="p-4">
-<h4 class="text-white">Kirana Product Billing (Software Developed For <b>TCS Inframind</b> Competition)</h4>
+<h4 class="text-white">Kirana Product Billing (Software Developed For <b>Hackathon</b> Competition)</h4>
 </div>
 </div>
 <nav class="navbar navbar-dark bg-dark">
